@@ -80,4 +80,4 @@ northwind-sql-analysis/
 
 ## Tools
 
-PostgreSQL, pgAdmin, Excel (for the dashboard/visuals)
+PostgreSQL
